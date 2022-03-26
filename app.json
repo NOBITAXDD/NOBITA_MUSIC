@@ -1,8 +1,8 @@
 {
-  "name": "Telegram Voice Chat Bot",
-  "description": "Telegram Voice-Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-  "repository": "https://github.com/thehamkercat/Telegram_VC_Bot",
-  "logo": "https://i.imgur.com/8S8NVy0.png",
+  "name": "Nobita music bot",
+  "description": "Nobita music bot Written In Python Using Pytgcalls & Pyrogram.",
+  "repository": "https://github.com/NOBITAXDD/NOBITA_MUSIC",
+  "logo": "https://te.legra.ph/file/7d5d4e1036a43bbb92822.jpg",
   "keywords": [
     "python",
     "telegram",
