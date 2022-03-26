@@ -1,7 +1,7 @@
 # Nobita Bot 
 Nobita Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
-<img src="https://hamker.me/wl9twld.png" width="500" height="300">
+<img src="https://te.legra.ph/file/7d5d4e1036a43bbb92822.jpg" width="500" height="300">
 
 
 ## Requirements
